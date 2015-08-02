@@ -58,17 +58,15 @@ Pupae: Pupae can be recovered from soil by sifting and hand searching with visua
  
 Adults: Adults can be found by visual inspection of any plant part, including flowers, leaves, and branches. Adults are well camouflaged and will tend to appear as a small piece of bark. Plum curculio exhibit thanatosis, or tonic immobility, when disturbed. Collection in the field is often done by jarring or disturbing the medium on which the adults are found (branches and trunks) over a white sheet, followed by visual inspection for immobile adults. Immobile adults will fold their legs under their body and bend the rostrum under the prothorax, and appear as an oblong shape. 
 
+![An adult plum curculio exhibiting mimicry via tonic immobility](assets/img/4326932644_df78d1dacf_b.jpg "The elytra costae are clearly visible")
+
 ### Similar signs due to other insect sources:
 TBD
-
-![An adult plum curculio exhibiting mimicry via tonic immobility](assets/img/4326932644_df78d1dacf_b.jpg "The elytra costae are clearly visible")
 
 # Identification
 Identification of _Conotrachelus nenuphar_ by morphological examination is restricted to adult specimens because there are no adequate keys for the identification of eggs, larvae or pupae. A guide to identification of adult plum curculio is given below. 
 
-Molecular assays can be applied to all life stages including the immature stages for which morphological identification to species is not possible. Molecular approaches can also reliably identify specimen fragments, so long as soft tissue is still attached. Molecular approaches can also be used to narrow the identification of the phonological strain and the geographic point of origin for the sample. 
-
-Molecular diagnostics should aid in the identification of insect fruit contaminants. Larval and pupal life stages are especially a risk for misidentification because of the lack of reliable identification diagnostics or keys for them. 
+Larval and pupal life stages are especially a risk for misidentification because of the lack of reliable identification diagnostics or keys for them. Molecular assays can be applied to all life stages including the immature stages for which morphological identification to species is not possible and to specimen fragments. Molecular approaches can also be used to narrow the identification of the phonological strain and the geographic region of origin for the sample. 
 
 ## Preparation of adult beetles for microscopic examination
 Adult weevils in the genus _Conotrachelus_ are generally less than 9mm and may be examined for morphological identification under 10x to 60x magnification. Most diagnostic characters can be observed at this level of magnification. For routine identification, dissection of genitalia is usually not necessary. 
@@ -76,18 +74,14 @@ Adult weevils in the genus _Conotrachelus_ are generally less than 9mm and may b
 The typical size for adult _Conotrachelus nenuphar_ specimens is between 4mm and 6mm, allowing for pin mounting directly through the hind thorax. There are several important diagnostic characters on the legs, so spreading the legs while mounting is highly suggested. 
 
 ## Morphological identification of adult weevils
+TBD
+
 ## Morphological identification of adult _Conotrachelus_
-Described by French Colonel and entomologist Pierre Francois Marie Auguste Dejean in 1835, _Conotrachelus_ is a New World beetle genus with approximately 1,200 named species (Dejean 1837; O’Brien & Wibmer 1982). The generic name is based on the cone-shaped thorax typical of the group. Of critical importance in diagnosing Conotrachelus species is the postmedian elytral band. This is a region in the middle of the elytra and there are diagnostic differences between groups of species. 
+_Conotrachelus_ is a New World beetle genus with approximately 1,200 named species (Dejean 1837; O’Brien & Wibmer 1982). The majority of species diversity is concentrated in South America and there are many species found only in South America. The _Conotrachelus_ diversity found in the United States and Canada (where _Conontrachelus nenuphar_ is endemic) is limited to approximately 90 of 1,200 described species. Of these, roughly 40 to 50 species are sympatric with _C. nenuphar_. Of those _Conotrachelus_ species found in the same geographic regions as _C. nenuphar_, none are known to use commerical fruit tress as hosts. The potential for confusion with other fruit pests is greater than with congenerics. The generic name is based on the cone-shaped thorax typical of the group. Of critical importance in diagnosing _Conotrachelus_ species is the postmedian elytral band. This is a region in the middle of the elytra and there are diagnostic differences between groups of species. 
 
-The genus can be recognized by these body parts:
+…TBD
 
-Main Body Regions and Appendages
-TBD
-
-Coloration and Vestiture
-TBD
-
-## Morphological identification of adult Conotrachelus nenuphar
+## Morphological identification of adult _Conotrachelus nenuphar_
 Appendages: Tarsal claws divergent, not close together. 
 
 Prothorax: No median ridge or furrow. 
@@ -100,14 +94,52 @@ Thorax: The mesoscutellum is gently sloped, depressed and flat on the basal side
 Smith and Salkeld (1964) dissected the maturing ovaries of northern and southern strain plum curculio adult females and laid out how the breeding behavior of the two strains was related to their diapause behavior. They established that northern strain females do not develop mature oocytes prior to diapause, and that southern strain females do. This was the first demonstration that the diapause behavior between the strains was different, with the northern strain required to diapause to develop oocytes. To this day, this is the only reliable method to distinguish the strains and their diapause behavior.
 
 ## Molecular assays for identifying _Conotrachelus nenuphar_
-There are several methods available for molecular diagnostic identification of the plum curculio.
+There are several methods available for molecular diagnostic identification of the plum curculio. The _COI_ gene is a useful marker for diagnosing _Conotrachelus nenuphar_ from its congeners as well as identifying certain regional variants within the species. The northern and southern regions are readily diagnosable from each other, and within the southern populations, genetic variants found west of the Mississippi and in the mid-Atlantic are also diagnosable from the broader southern distribution. 
+
+### DNA isolation
+To preserve external and internal morphological characters of museum specimens, the head and prothorax of each individual was separated from the body and subjected to a modified version of the Qiagen® DNeasy® 96 Blood & Tissue Kit extraction protocol (Pinzon-Navarro et al. 2010). Whole tissue was soaked in lysis buffer without homogenization. This semi- destructive protocol allows for digestion of the soft internal tissue of the head and prothorax for isolation of nucleic acids while preserving the hard sclerotized external anatomy. After lysis of internal soft tissue, the head and prothorax was reattached to each specimen.
+
+### 3’ COI sequence-based identification of _Conotrachelus nenuphar_ and its geographic strains
+The 3’ COI gene fragment is able to diagnose regional variation within _Conotrachelus nenuphar_. Two geographically distinct mitochondrial groups are resolvable with purely diagnostic single nucleotide variants and enable the diagnosis to identify regional source populations in the case of mid-Atlantic (Sb haplotypes) and Midwestern (Sa haplotypes). 
+
+Target Locus: 3’ end of the COI mitochondrial gene
+
+Expected Amplicon Size: 826bp
+
+Primers:
+
+Primer Name     | Marker | Sequence (5’ - 3’)        | Direction 
+----------------|--------|---------------------------|----------
+C1-J-2183 Jerry | COI    | CAACATTTATTTTGATTTTTTGG   | F
+TL2-N3014 Pat   | COI    | TCCAATGCACTAATCTGCCATATTA | R
+
+PCR Conditions:
+TBD
+
+DNA sequencing was done using the BigDye® Terminator v3.1 Cycle Sequencing kit (Applied Biosystems, Inc.) on an ABI PrismTM 3730 DNA Analyzer. 
+
+The DNA sequences produced by this method can be analyzed via multiple sequence alignment and subsequent character analysis. Figure XX provides species-level molecular diagnostic characters for identification of closely-related _Conotrachelus species_. 
+
+![3’ COI _Conotrachelus nenuphar_ species-level diagnostic characters](assets/img/caos_characters.png)
+
+### 5’ COI sequence-based identification of _Conotrachelus nenuphar_ and some congeneric species
+Target Locus: 5’ end of the COI mitochondrial gene
+
+Expected Amplicon Size: 658bp
+
+Primers: (Folmer et al. 1994).
+
+Primer Name | Marker | Sequence (5’ - 3’)         | Direction 
+------------|--------|----------------------------|----------
+LCO1490     | COI    | GGTCAACAAATCATAAAGATATTGG  | F
+HCO2198     | COI    | TAAACTTCAGGGTGACCAAAAAATCA | R
+
+PCR Conditions:
+TBD
+
+DNA sequencing was done using the BigDye® Terminator v3.1 Cycle Sequencing kit (Applied Biosystems, Inc.) on an ABI PrismTM 3730 DNA Analyzer. 
+
+The DNA sequences produced by this method can be analyzed and a species designation made using the Barcode of Life database. 
 
 ### RFLP
 TBD 
-
-### COI sequence-based identification of _Conotrachelus nenuphar_ and its geographic strains
-The _COI_ gene is a useful marker for diagnosing Conotrachelus nenuphar from its congeners as well as identifying certain regional variants within the species. The northern and southern regions are readily diagnosable from each other, and within the southern populations, genetic variants found west of the Mississippi and in the mid-Atlantic are also diagnosable from the broader southern distribution. 
-
-Two distinct sets of primers are available that are able to diagnose _Conotrachelus nenuphar_: the 5’ end of the COI gene and the 3’ end of the COI gene. 
-
-The 3’ COI gene fragment is able to diagnose regional variation within Conotrachelus nenuphar. Two geographically distinct mitochondrial groups are resolvable with purely diagnostic single nucleotide variants and enable the diagnosis to identify regional source populations in the case of mid-Atlantic (Sb haplotypes) and Midwestern (Sa haplotypes). 
