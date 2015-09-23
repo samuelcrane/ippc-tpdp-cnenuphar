@@ -2,15 +2,15 @@
 # Diagnostic Protocol _Conotrachelus nenuphar_
 
 # Pest Information
-The plum curculio, _Conotrachelus nenuphar_ Herbst (Coleoptera: Curculionidae), is a native fruit pest in the United States and Canada. Its geographic range extends from the eastern Rockies to the Atlantic and from southern Canada to the Gulf Coast. The plum curculio is an agricultural pest of orchard fruit—especially plums, peaches, nectarines, apples, cherries, and blueberries (Quaintance & Jenne 1912; Chapman 1938).
+The plum curculio, _Conotrachelus nenuphar_ Herbst (Coleoptera: Curculionidae), is a native fruit pest in eastern North America. Its geographic range extends from the eastern Rockies to the Atlantic and from southern Canada to the Gulf Coast. The plum curculio is an agricultural pest of orchard fruit—especially especially _Prunus_ (plums, peaches, nectarines, cherries), _Malus_ (apples), and _Cyanococcus_ (blueberries)  [@Quaintance:1912ty, @Chapman:1938vg].
 
 The adults feed on, and the larvae develop within, the fruit of these plants. Crop damage comes from oviposition sites and from adult and larval feeding on fruits. The adult feeding punctures often deform the fruit and open up the skin to further damage by other insect pests or fungal attacks. The developing larvae consume the flesh of the fruit and cause the fruit to drop from the tree before ripening. Both forms of damage are problems for fresh market fruits, and premature drop prevents the fruit from being used as a processed food item. 
 
-The plum curculio is endemic and native to North America. Native hosts include hawthorn trees (_Crataegus spp._), crabapple trees (_Malus spp._), and wild plum (_Prunus spp._). The adult beetles will feed on the fruits of a great many kinds of rosaceous and ericaceous plants: plums, apples, peaches, nectarines, cherries, apricots, pears, strawberries, quince, blueberries, haws, huckleberry, as well as grape (Vitaceae), gooseberry and currant (both Grossulariaceae), persimmon (Ebenaceae), and if given the opportunity will even feed on tropical fruits not available within its current range (Quaintance & Jenne 1912; Chapman 1938; Hallman & Gould 2004). The beetle discriminates among these potential food sources and prefers stone and pome fruits–especially plums, peaches, cherries, apricots, apples, and pears (Jenkins, Cottrell, et al. 2006b; Leskey & Wright 2007). Females will oviposit in these fruits, and larvae can successfully develop in any of them. Larvae have been known to develop in fungal black knot (_Plowrightia morbosa_) on cherry trees (Quaintance & Jenne 1912; Jenkins, Cottrell, et al. 2006b).
+The plum curculio is endemic and native to North America. . Native hosts include _Crataegus spp._ (hawthorn trees), _Malus spp._ (crabapple trees), and _Prunus spp._ (wild plum).  The adult beetles will feed on the fruits of a great many kinds of rosaceous and ericaceous plants: plums, apples, peaches, nectarines, cherries, apricots, pears, strawberries, quince, blueberries, haws, huckleberry, as well as grape (Vitaceae), gooseberry and currant (both Grossulariaceae), persimmon (Ebenaceae), and if given the opportunity will even feed on tropical fruits not available within its current range [@Quaintance:1912ty, @Chapman:1938vg, @Hallman:2004tk]. The beetle discriminates among these potential food sources and prefers stone and pome fruits–especially plums, peaches, cherries, apricots, apples, and pears [@Jenkins:2006uw, @Leskey:2007to]. Females will oviposit in these fruits, and larvae can successfully develop in any of them. Larvae have been known to develop in fungal black knot (_Plowrightia morbosa_) on cherry trees [@Quaintance:1912ty, @Jenkins:2006uw].
 
-The geographic range of the plum curculio is limited to the United States and Canada east of the Rocky Mountains.  There are no established populations of plum curculio in the western United States, except for an infestation in Box Elder County, Utah dating to the 1980’s, primarily of fruit trees in home yards and wild plums (Alston et al. 2005). There are no known established populations of the plum curculio outside of North America.
+The geographic range of the plum curculio is limited to the United States and Canada east of the Rocky Mountains.  There are no established populations of plum curculio in the western United States, except for an infestation in Box Elder County, Utah dating to the 1980’s, primarily of fruit trees in home yards and wild plums [@Alston:2005ua]. There are no known established populations of the plum curculio outside of North America.
 
-There are two phenological strains of plum curculio, a northern strain and a southern strain. The number of generations per year is a defining characteristic of the strains. The northern strain plum curculio must diapause to become reproductively mature (obligate diapause) and has a single brood per year, with adults entering diapause in the late summer and early fall before female reproductive features have developed. The southern strain plum curculio often has only one brood per year but has the ability to develop reproductively and have a second or even in rare cases a third generation in a single season (facultative diapause) (Smith & Salkeld 1964). For this reason, summer and fall harvested fruit may have viable larvae in them in the southeastern United States, though this is rare.
+There are two phenological strains of plum curculio, a northern strain and a southern strain. The number of generations per year is a defining characteristic of the strains. The northern strain plum curculio must diapause to become reproductively mature (obligate diapause) and has a single brood per year, with adults entering diapause in the late summer and early fall before female reproductive features have developed. The southern strain plum curculio often has only one brood per year but has the ability to develop reproductively and have a second or even in rare cases a third generation in a single season (facultative diapause) [@Smith:1964vm]. For this reason, summer and fall harvested fruit may have viable larvae in them in the southeastern United States, though this is rare.
 
 ![Plum curculio adult](assets/img/5204099-PPT_2w4h.jpg)
   
@@ -18,20 +18,22 @@ There are two phenological strains of plum curculio, a northern strain and a sou
 
 # Taxonomic Information
 Name:  
-_Conotrachelus nenuphar_ Herbst, 1797  
+_Conotrachelus nenuphar_ @Herbst:1797to  
 
 Synonyms:  
-_Curculio nenuphar_ Herbst, 1797  
-_Conotrachelus nenuphar_ (Hbst.) Leconte and Horn, 1876  
-_Rhynchaenus argula_ Fabricius, 1801  
-_Cryptorhynchus argula_ (Fab.) Say, 1831  
-_Rhynchaenus cerasi_ Peck, 1819  
+_Curculio nenuphar_ @Herbst:1797to  
+_Conotrachelus nenuphar_ (Hbst.) @LeConte:1876ub  
+_Rhynchaenus argula_ @Fabricius:1801td  
+_Cryptorhynchus argula_ (Fab.) @Say:1831uk  
+_Rhynchaenus cerasi_ @Peck:1819wl  
 
 Taxonomic position:   
 Insecta, Coleoptera, Curculionidae, Molytinae  
 
 Common name:   
-Plum curculio
+Plum curculio  
+
+See @Schoof:1942vt for more taxonomic details.   
 
 # Detection
 The larvae are the life stage most likely to be transported in late season fruit, especially from the southern extent of its range. Pupae may be transported in soil along with tree seedlings or transplants. Adults may be transported in nursery material, rootstocks, branches, flowers, and fresh packed fruit. 
@@ -53,7 +55,7 @@ Adults feed on fruit. In immature fruit, punctures look circular (not crescent s
 ## Methods of insect recovery from plants and plant products:
 Eggs and Larvae: Eggs can be detected by observing fresh fruit for signs of oviposition and inspection of plant tissue beneath the scar. Larvae can be recovered from fruit by splitting the fruit and looking for signs of larval feeding and for larvae. Larvae will only exit the fruit after fruit drop, and so any fruit still on the stem may yield live larvae. 
 
-Pupae: Pupae can be recovered from soil by sifting and hand searching with visual inspection of the soil associated with any plant product. Pupae tend to be found within 20mm of the soil surface. Pupae can be reared also from soil, following established guidelines (citation needed).
+Pupae: Pupae can be recovered from soil by sifting and hand searching with visual inspection of the soil associated with any plant product. Pupae tend to be found within 20mm of the soil surface. 
  
 Adults: Adults can be found by visual inspection of any plant part, including flowers, leaves, branches, and trunks. Adults are well camouflaged and will tend to appear as a small piece of bark. Plum curculio exhibit thanatosis, or tonic immobility, when disturbed. Collection in the field is done by jarring or disturbing the medium on which the adults are found (branches and trunks) over a white sheet, followed by visual inspection for immobile adults. Immobile adults fold their legs under their body and bend the rostrum under the prothorax, and appear as an oblong shape. 
 
@@ -74,8 +76,6 @@ The typical size for adult _Conotrachelus nenuphar_ specimens is between 4mm and
 
 ## Morphological identification of adult weevils
 The weevil family, Curculionidae, is very large with more than 6o,ooo described species (Marvaldi et al, Oberprieler). The best external morphological characters for the recognition of the weevils are associated with their rostrum (snout or beak) although some weevils have a very short  rostrum and some have none (especially in the Scolytinae and Platypodinae). The length of the rostrum, its curvature, or lack of curvature, and the degree of  punctation or sculpturing, and/or the type and density of vestiture all are used in classification. Another set of diagnostic characters are those of the antennae. The first article (the scape) is elongate and inserted away from the base, usually near the middle and at times near the apex. Often it rests in a lateral groove (scrobe), and is directed in many ways, e,g., dorsally, ventrally, and has various lengths and shapes. The number of funicular articles varies from 4 to 8 articles and the last three antennal articles normally form a compact club.
-
-[Table to come...]
 
 ## Morphological identification of adult _Conotrachelus_
 _Conotrachelus_ is a New World beetle genus with approximately 1,200 named species (Dejean 1837; O’Brien & Wibmer 1982). The majority of species diversity is concentrated in South America and there are many species found only in South America. The _Conotrachelus_ diversity found in the United States and Canada (where _Conontrachelus nenuphar_ is endemic) is limited to approximately 63 of 1,200 described species. Of these, roughly 46 _Conotrachelus_ species are broadly sympatric with _C. nenuphar_ being found in the eastern portion of North America, here defined as north of Mexico and east of the Rocky Mountains. Of those _Conotrachelus_ species found in the same geographic regions as _C. nenuphar_, none are known to use commercial fruit trees as hosts. The potential for confusion with other fruit pests is greater than with congenerics. Of critical importance in diagnosing _Conotrachelus_ species is the postmedian elytral band. This is a region in the middle of the elytra and there are diagnostic differences between groups of species. 
@@ -108,10 +108,12 @@ Smith and Salkeld (1964) dissected the maturing ovaries of northern and southern
 ## Molecular assays for identifying _Conotrachelus nenuphar_
 There are several methods available for molecular diagnostic identification of the plum curculio. The _COI_ gene is a useful marker for diagnosing _Conotrachelus nenuphar_ from its congeners as well as identifying certain regional variants within the species. The northern and southern regions are readily diagnosable from each other, and within the southern populations, genetic variants found west of the Mississippi and in the mid-Atlantic are also diagnosable from the broader southern distribution. 
 
+In this diagnostic protocol, methods (including reference to brand names) are described as published, as these define the original level of sensitivity, specificity and reproducibility achieved. The use of names of reagents, chemicals or equipment in these diagnostic protocols implies no approval of them to the exclusion of others that may also be suitable. Laboratory procedures presented in the protocols may be adjusted to the standards of individual laboratories, provided that they are adequately validated.
+
 ### DNA isolation
 Nucleic acids can be isolated using any standard technique. In the case of adults, a fragment of the whole adult specimen can be used in lysis to preserve morphological characters for independent diagnosis. A single hind leg from fresh tissue yields sufficient DNA concentration for PCRs. To semi-destructively sample a specimen for DNA, the head and prothorax of each individual can be separated from the body and subjected DNA extraction. This protocol allows for digestion of the soft internal tissue of the head and prothorax for isolation of nucleic acids while preserving the hard sclerotized external anatomy. After lysis of internal soft tissue, the head and prothorax is reattached to each specimen.
 
-The Qiagen DNeasy Blood & Tissue Kit (Qiagen, Inc) nucleic acid extraction technique has been used successfully on fresh whole specimens, single legs from fresh specimens, and head and prothorax from museum specimens (with modification, see Crane 2013). 
+The Qiagen DNeasy Blood & Tissue Kit (Qiagen, Inc) nucleic acid extraction technique has been used successfully on fresh whole specimens, single legs from fresh specimens, and head and prothorax from museum specimens (with modification, see @Crane2013).   
 
 ### 3’ _COI_ sequence-based identification of _Conotrachelus nenuphar_ and its geographic strains
 Using the 3’ _COI_ gene fragment, one is able to diagnose regional variation within _Conotrachelus nenuphar_. Two geographically distinct mitochondrial groups are resolvable with purely diagnostic single nucleotide variants and enable the diagnosis to identify regional source populations in the case of mid-Atlantic (Sb haplotypes) and Midwestern (Sa haplotypes). 
@@ -134,7 +136,7 @@ Thermocycler program: initial denaturation at 95°C (30 seconds); 45 cycles of a
 
 DNA sequencing was done using the BigDye® Terminator v3.1 Cycle Sequencing kit (Applied Biosystems, Inc.) on an ABI PrismTM 3730 DNA Analyzer. 
 
-The DNA sequences produced by this method can be analyzed via multiple sequence alignment and subsequent character analysis. Figure XX provides species-level molecular diagnostic characters for identification of closely-related _Conotrachelus species_. Reference sequences can be obtained from GenBank. 
+The DNA sequences produced by this method can be analyzed via multiple sequence alignment and subsequent character analysis. Figure 4 provides species-level molecular diagnostic characters for identification of closely-related _Conotrachelus species_. Reference sequences can be obtained from GenBank. These are species-level diagnostic characters and do not rely on a molecular distance for identification once the multiple species alignment has been performed. 
 
 ![3’ COI _Conotrachelus nenuphar_ species-level diagnostic characters](assets/img/caos_characters.png)
 
@@ -143,7 +145,7 @@ Target Locus: 5’ end of the COI mitochondrial gene
 
 Expected Amplicon Size: 658bp
 
-Primers: (Folmer et al. 1994).
+Primers: [@Folmer:1994td].
 
 Primer Name | Marker | Sequence (5’ - 3’)         | Direction 
 ------------|--------|----------------------------|----------
@@ -159,5 +161,7 @@ DNA sequencing was done using the BigDye® Terminator v3.1 Cycle Sequencing kit 
 
 The DNA sequences produced by this method can be analyzed and a species designation made using the Barcode of Life database (Project code NAPCB). These primers recover the “DNA Barcode” region of the COI gene. 
 
-### RFLP
-TBD 
+### Note
+The use of any specific brand in this diagnostic protocol implies no approval of them to the exclusion of others that may also be suitable. This information is given for the convenience of users of this protocol and does not constitute an endorsement by the CPM of the chemical, reagent and/or equipment named. Equivalent products may be used if they can be shown to lead to the same results.
+
+# References
