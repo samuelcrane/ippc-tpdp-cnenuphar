@@ -39,10 +39,10 @@ See @Schoof:1942vt for more taxonomic details.
 The larvae are the life stage most likely to be transported in late season fruit, especially from the southern extent of its range. Pupae may be transported in soil along with tree seedlings or transplants. Adults may be transported in nursery material, rootstocks, branches, flowers, and fresh packed fruit. 
 
 ## _C. nenuphar_ is commonly found on the follow plant parts and plant-associated media depending on life stage:
-  - Eggs: immature fruit tissue, mature fruit tissue (if from southern range)  
-  - Larvae: immature fruit tissue, mature fruit tissue  
-  - Pupae: in the soil  
-  - Adults: on the leaves, branches, flowers, and fruits  
+  - Eggs: immature fruit tissue, mature fruit tissue (if from southern range)
+  - Larvae: immature fruit tissue, mature fruit tissue
+  - Pupae: in the soil
+  - Adults: on the leaves, branches, flowers, and fruits
 
 ## Signs of eggs and larvae:  
 In immature fruit, a small crescent-shaped cut and scar is indicative of oviposit. To lay an egg, a female must puncture the skin of the developing fruit with her mandible (on the distal end of the rostrum) and excavate a small, shallow cavity.   A single egg is deposited in the center of this cavity. A single female may lay multiple eggs on a single fruit. 
@@ -60,9 +60,6 @@ Pupae: Pupae can be recovered from soil by sifting and hand searching with visua
 Adults: Adults can be found by visual inspection of any plant part, including flowers, leaves, branches, and trunks. Adults are well camouflaged and will tend to appear as a small piece of bark. Plum curculio exhibit thanatosis, or tonic immobility, when disturbed. Collection in the field is done by jarring or disturbing the medium on which the adults are found (branches and trunks) over a white sheet, followed by visual inspection for immobile adults. Immobile adults fold their legs under their body and bend the rostrum under the prothorax, and appear as an oblong shape. 
 
 ![An adult plum curculio exhibiting mimicry via tonic immobility](assets/img/4326932644_df78d1dacf_b.jpg)
-
-## Similar signs due to other insect sources:
-TBD
 
 # Identification
 Identification of _Conotrachelus nenuphar_ by morphological examination is restricted to adult specimens because there are no adequate keys for the identification of eggs, larvae or pupae. A guide to identification of adult plum curculio is given below. 
@@ -139,27 +136,6 @@ DNA sequencing was done using the BigDye® Terminator v3.1 Cycle Sequencing kit 
 The DNA sequences produced by this method can be analyzed via multiple sequence alignment and subsequent character analysis. Figure 4 provides species-level molecular diagnostic characters for identification of closely-related _Conotrachelus species_. Reference sequences can be obtained from GenBank. These are species-level diagnostic characters and do not rely on a molecular distance for identification once the multiple species alignment has been performed. 
 
 ![3’ COI _Conotrachelus nenuphar_ species-level diagnostic characters](assets/img/caos_characters.png)
-
-### 5’ _COI_ sequence-based identification of _Conotrachelus nenuphar_ and some congeneric species
-Target Locus: 5’ end of the COI mitochondrial gene
-
-Expected Amplicon Size: 658bp
-
-Primers: [@Folmer:1994td].
-
-Primer Name | Marker | Sequence (5’ - 3’)         | Direction 
-------------|--------|----------------------------|----------
-LCO1490     | COI    | GGTCAACAAATCATAAAGATATTGG  | F
-HCO2198     | COI    | TAAACTTCAGGGTGACCAAAAAATCA | R
-
-PCR Conditions:
-Setup for a 25 µl PCR reaction: Molecular-grade water (volume to 25 µl), 10mM dNTPs (0.5 µl), 10µM Forward primer (0.5 µl), 10µM Reverse primer (0.5 µl), isolated DNA (0.5 µl), _Taq_ DNA polymerase (0.1 µl). 
-
-Thermocycler program: initial denaturation at 95°C (30 seconds); 45 cycles of amplification of 95°C (15 seconds), 56°C (30 seconds), 68°C (60 seconds); final extension at 72°C (5 minutes). 
-
-DNA sequencing was done using the BigDye® Terminator v3.1 Cycle Sequencing kit (Applied Biosystems, Inc.) on an ABI PrismTM 3730 DNA Analyzer. 
-
-The DNA sequences produced by this method can be analyzed and a species designation made using the Barcode of Life database (Project code NAPCB). These primers recover the “DNA Barcode” region of the COI gene. 
 
 ### Note
 The use of any specific brand in this diagnostic protocol implies no approval of them to the exclusion of others that may also be suitable. This information is given for the convenience of users of this protocol and does not constitute an endorsement by the CPM of the chemical, reagent and/or equipment named. Equivalent products may be used if they can be shown to lead to the same results.
