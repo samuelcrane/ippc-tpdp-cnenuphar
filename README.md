@@ -13,6 +13,6 @@ This repository contains the draft diagnostic protocol for identification of _Co
 For questions or comments email [Samuel Crane](mailto:scrane@amnh.org).
 
 #### Manuscript History
-2015-9-22: Revised draft submitted to IPP for Expert Consultation
+2015-9-22: Revised draft submitted to IPP for Expert Consultation  
 2015-07-23: Repository created  
 2015-04-23: Draft started
